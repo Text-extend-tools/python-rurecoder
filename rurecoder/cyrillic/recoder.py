@@ -17,6 +17,7 @@ class Recoder(BaseRecoder):
         'koi8-u',
         'cp1251',
         'cp1252',
+        'cp437',
         'iso8859-1',
         'iso8859-2',
         'iso8859-5',
